@@ -1,7 +1,24 @@
+##### IDE begin #####
+# Eclipse Project Files
 .classpath
 .project
-.springBeans
 .settings/
-target/
+
+# Intellij Project Files
 *.iml
 .idea/
+##### IDE end #####
+
+##### Build begin #####
+# Temp Folders
+target/
+logs/
+
+# Temp Files
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.class
+##### Build end #####
